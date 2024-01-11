@@ -1,0 +1,8 @@
+# Ignore all .txt files
+# *.txt
+
+# Ignore a specific file
+# my_secret_config.json
+
+# Ignore all files in a specific folder
+.ipynb_checkpoints/
